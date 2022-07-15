@@ -14,7 +14,7 @@
   "author": "kraftwerk28 <kefirchik3@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "svelte": "^3.23.2"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^13.0.0",
